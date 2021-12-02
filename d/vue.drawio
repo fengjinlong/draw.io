@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T02:30:42.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.8.8" etag="I5WSBLgYzeSkwmbTJ4q6" type="github"><diagram id="veVKBqbTk9RcHLEm8QtH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-02T02:47:27.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="QTZaR1f612TUWDS5OEw9" version="15.8.8" type="github">
+  <diagram id="veVKBqbTk9RcHLEm8QtH" name="第 1 页">
+    <mxGraphModel dx="946" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K59lU4tSNQOAS0EglYZQ-1" target="K59lU4tSNQOAS0EglYZQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K59lU4tSNQOAS0EglYZQ-1" target="K59lU4tSNQOAS0EglYZQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-1" value="vue" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K59lU4tSNQOAS0EglYZQ-7" target="K59lU4tSNQOAS0EglYZQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-7" value="&lt;div style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; font-size: 13.6px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; border-radius: 6px ; color: rgb(36 , 41 , 47)&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; font-size: 13.6px ; padding: 0px ; margin: 0px ; background: transparent ; border-radius: 6px ; word-break: normal ; border: 0px ; display: inline ; overflow: visible ; line-height: inherit ; overflow-wrap: normal&quot;&gt;@vue/runtime-dom&lt;/code&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K59lU4tSNQOAS0EglYZQ-9" target="K59lU4tSNQOAS0EglYZQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-9" value="&lt;pre style=&quot;box-sizing: border-box ; font-size: 13.6px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; border-radius: 6px ; color: rgb(36 , 41 , 47)&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; font-size: 13.6px ; padding: 0px ; margin: 0px ; background: transparent ; border-radius: 6px ; word-break: normal ; border: 0px ; display: inline ; overflow: visible ; line-height: inherit ; overflow-wrap: normal&quot;&gt;@vue/compiler-dom&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-11" value="&lt;pre style=&quot;box-sizing: border-box ; font-size: 13.6px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; border-radius: 6px ; color: rgb(36 , 41 , 47)&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; font-size: 13.6px ; padding: 0px ; margin: 0px ; background: transparent ; border-radius: 6px ; word-break: normal ; border: 0px ; display: inline ; overflow: visible ; line-height: inherit ; overflow-wrap: normal&quot;&gt;@vue/compiler-core&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K59lU4tSNQOAS0EglYZQ-14" target="K59lU4tSNQOAS0EglYZQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-14" value="&lt;pre style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; font-size: 13.6px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; border-radius: 6px ; color: rgb(36 , 41 , 47)&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; font-size: 13.6px ; padding: 0px ; margin: 0px ; background: transparent ; border-radius: 6px ; word-break: normal ; border: 0px ; display: inline ; overflow: visible ; line-height: inherit ; overflow-wrap: normal&quot;&gt;@vue/runtime-core &lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="290" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-16" value="&lt;pre style=&quot;box-sizing: border-box ; font-size: 14px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.35 ; border-radius: 6px ; color: rgb(36 , 41 , 47)&quot;&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; border-radius: 6px&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; padding: 0px ; margin: 0px ; background: transparent ; border-radius: 6px ; word-break: normal ; border: 0px ; display: inline ; overflow: visible ; line-height: inherit ; overflow-wrap: normal&quot;&gt;@vue/reactivity &lt;br&gt;&lt;/code&gt;反应性系统。它可以独立使用&lt;/p&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;align=center;textDirection=ltr;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="755" y="250" width="245" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-18" value="&lt;pre style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; font-size: 13.6px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; border-radius: 6px ; color: rgb(36 , 41 , 47)&quot;&gt;&lt;code style=&quot;box-sizing: border-box ; font-family: , , &amp;#34;sf mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , monospace ; font-size: 13.6px ; padding: 0px ; margin: 0px ; background: transparent ; border-radius: 6px ; word-break: normal ; border: 0px ; display: inline ; overflow: visible ; line-height: inherit ; overflow-wrap: normal&quot;&gt;@vue/compiler-sfc&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.125;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K59lU4tSNQOAS0EglYZQ-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="60" as="sourcePoint" />
+            <mxPoint x="395" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K59lU4tSNQOAS0EglYZQ-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.125;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="30.000000000000018" as="sourcePoint" />
+            <mxPoint x="540" y="108.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
